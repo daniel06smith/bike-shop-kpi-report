@@ -15,6 +15,12 @@ hourly performance across weekdays.
 
 ---
 
+## Preview
+
+<img width="1189" height="665" alt="image" src="https://github.com/user-attachments/assets/36ccf387-f518-4973-b0d7-f49781acf80b" />
+
+---
+
 ## Data Source
 
 - **Database:** SQL Server
